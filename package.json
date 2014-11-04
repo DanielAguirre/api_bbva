@@ -1,0 +1,10 @@
+{
+  "name": "api_bbva",
+  "version": "0.0.1",
+  "description": "ejemplo del uso del api de bbva",
+  "devDependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.1",
+    "request": "^2.47.0"
+  }
+}
